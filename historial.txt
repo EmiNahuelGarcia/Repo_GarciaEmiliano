@@ -1,17 +1,66 @@
-    1  whoami
-    2  pwd
+    1  whereami
+    2  whoami
     3  ls
-    4  cd repogit/
+    4  cd repogit
     5  ls
-    6  pwd
-    7  git clone https://github.com/EmiNahuelGarcia/Repo_GarciaEmiliano.git
-    8  ls
-    9  cd Repo_GarciaEmiliano/
-   10  ls
-   11  cd ..
-   12  cd Repo_GarciaEmiliano/
+    6  cd Repo_GarciaEmiliano/
+    7  ls
+    8  git status
+    9  git add .
+   10  git status
+   11  whoami
+   12  pwd
    13  ls
-   14  history
-   15  clear
-   16  history
-   17  history > historial.txt
+   14  cd repogit/
+   15  ls
+   16  pwd
+   17  git clone https://github.com/EmiNahuelGarcia/Repo_GarciaEmiliano.git
+   18  ls
+   19  cd Repo_GarciaEmiliano/
+   20  ls
+   21  cd ..
+   22  cd Repo_GarciaEmiliano/
+   23  ls
+   24  history
+   25  clear
+   26  history
+   27  history > historial.txt
+   28  ls
+   29  clear
+   30  ls
+   31  cat historial.txt 
+   32  clear
+   33  git status
+   34  git add .
+   35  git status
+   36  git commit -m "se sube el historial de comandos"
+   37  git config --global user.name "EmiNahuelGarcia"
+   38  git add -m
+   39  git commit -m
+   40  git commit
+   41  ls
+   42  ls -l
+   43  ls -la
+   44  man ls
+   45  pwd
+   46  whoami
+   47  lrclear
+   48  cea
+   49  clearccccdagdfageqcadsadaammmmmiiiiiii
+   50  ls
+   51  cd repogit
+   52  ls
+   53  cd Repo_GarciaEmiliano/
+   54  ls
+   55  git status
+   56  cat archivo1 
+   57  clear
+   58  cat /etc/shadow
+   59  sudo cat /etc/shadow
+   60  ls cpu
+   61  lscpu
+   62  lscpu | grep model
+   63  lscpu | grep -i model
+   64  ls
+   65  cat historial.txt 
+   66  history > historial.txt 
