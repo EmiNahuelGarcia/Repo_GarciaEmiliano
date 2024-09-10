@@ -1,0 +1,17 @@
+    1  whoami
+    2  pwd
+    3  ls
+    4  cd repogit/
+    5  ls
+    6  pwd
+    7  git clone https://github.com/EmiNahuelGarcia/Repo_GarciaEmiliano.git
+    8  ls
+    9  cd Repo_GarciaEmiliano/
+   10  ls
+   11  cd ..
+   12  cd Repo_GarciaEmiliano/
+   13  ls
+   14  history
+   15  clear
+   16  history
+   17  history > historial.txt
